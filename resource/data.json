@@ -1,0 +1,22 @@
+{
+	"basics":{
+		"objective":"all are true"
+	},
+	"education":[
+		{
+			"degree":"b.tech(CSE)",
+			"college":"KLMCEW",
+			"data":["2014-2018","70"]
+		},
+		{
+			"degree":"intermediate",
+			"college":"SAI YUKTHA JUNIOR COLLEGE",
+			"data":["2012-2014","78"]
+		},
+		{
+          "degree":"SSC",
+          "college":"SRI VENGAMAMBA HIGH SCHOOL",
+          "data":["2011-2012","87"]
+		},
+	]
+}
